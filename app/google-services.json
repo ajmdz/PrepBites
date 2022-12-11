@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "15964560344",
+    "firebase_url": "https://prepbites-a45e0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "prepbites-a45e0",
+    "storage_bucket": "prepbites-a45e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15964560344:android:bf1d0a4dc40aaa6e5970ad",
+        "android_client_info": {
+          "package_name": "com.example.prepbites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15964560344-r1lmuo59jrhtibel1q4fg9ij7qa4apqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ehPrRMBbJV2XoBSMcFHpai1sXlC3ICA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15964560344-8f68icd5rughf05grh039tfj17gbnmu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
